@@ -96,3 +96,4 @@ Insertion Sort,1500000,string,1000.000000,4294967296,Success
 Bubble Sort,1000000,string,300.000000,4294967296,Success
 Selection Sort,1000000,string,500.000000,4294967296,Success
 Insertion Sort,1000000,string,600.000000,4294967296,Success
+Bubble Sort,2000000,number,1800.000000,0,Success
