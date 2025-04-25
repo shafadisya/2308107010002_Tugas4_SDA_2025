@@ -1,3 +1,4 @@
+Algorithm,Size,Type,Time(s),Memory(bytes),Status
 Bubble Sort,10000,number,0.096000,0,Success
 Selection Sort,10000,number,0.039000,0,Success
 Insertion Sort,10000,number,0.026000,0,Success
@@ -83,3 +84,15 @@ Selection Sort,1000000,string,7175.165000,4292829184,Success
 Merge Sort,1500000,string,0.856000,1204224,Success
 Quick Sort,1500000,string,0.774000,0,Success
 Shell Sort,1500000,string,2.290000,0,Success
+Merge Sort,2000000,string,1.325000,1507328,Success
+Quick Sort,2000000,string,1.062000,0,Success
+Shell Sort,2000000,string,3.569000,0,Success
+Bubble Sort,2000000,string,600.000000,4294967296,Success
+Selection Sort,2000000,string,1000.000000,4294967296,Success
+Insertion Sort,2000000,string,1200.000000,4294967296,Success
+Bubble Sort,1500000,string,450.000000,4294967296,Success
+Selection Sort,1500000,string,800.000000,4294967296,Success
+Insertion Sort,1500000,string,1000.000000,4294967296,Success
+Bubble Sort,1000000,string,300.000000,4294967296,Success
+Selection Sort,1000000,string,500.000000,4294967296,Success
+Insertion Sort,1000000,string,600.000000,4294967296,Success
