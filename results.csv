@@ -75,3 +75,11 @@ Insertion Sort,500000,string,523.619000,0,Success
 Merge Sort,500000,string,0.218000,159744,Success
 Quick Sort,500000,string,0.183000,0,Success
 Shell Sort,500000,string,0.475000,0,Success
+Merge Sort,1000000,string,0.529000,1040384,Success
+Quick Sort,1000000,string,0.442000,0,Success
+Shell Sort,1000000,string,1.510000,0,Success
+Insertion Sort,1000000,string,5551.290000,4294303744,Success
+Selection Sort,1000000,string,7175.165000,4292829184,Success
+Merge Sort,1500000,string,0.856000,1204224,Success
+Quick Sort,1500000,string,0.774000,0,Success
+Shell Sort,1500000,string,2.290000,0,Success
