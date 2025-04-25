@@ -68,3 +68,10 @@ Merge Sort,250000,string,0.124000,81920,Success
 Quick Sort,250000,string,0.088000,0,Success
 Shell Sort,250000,string,0.224000,0,Success
 Insertion Sort,2000000,number,2219.059000,4294860800,Success
+Bubble Sort,500000,string,2643.211000,4284280832,Success
+Selection Sort,2000000,number,3452.713000,4293316608,Success
+Selection Sort,500000,string,1089.071000,0,Success
+Insertion Sort,500000,string,523.619000,0,Success
+Merge Sort,500000,string,0.218000,159744,Success
+Quick Sort,500000,string,0.183000,0,Success
+Shell Sort,500000,string,0.475000,0,Success
